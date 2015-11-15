@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Capture The Flag
-permalink: /ctf/
+title: Planning
+permalink: /planning/
 ---
 
 <div style="text-align:center;">
