@@ -13,77 +13,7 @@ layout: default
 </div>
 
 <div class="wrapper">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-    	<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-    	<div class="post-categories">
-    	{% if post.categories %}in {% for cat in post.categories %}
-    	  {% if site.jekyll-archives %}
-    		<a href="{{ site.baseurl }}category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-    	  {% else %}
-    	  <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-    	  {% endif %}
-    	{% endfor %}{% endif %}
-    	</div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
-</ul>
-
-<nav class="pagination" role="navigation">
-	<p>
-    {% if paginator.next_page %}
-    <a class="newer-posts" href="{{ site.baseurl }}page{{paginator.next_page}}">
-	    <span class="fa-stack fa-lg">
-			  <i class="fa fa-square fa-stack-2x"></i>
-			  <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-			</span>
-		</a>
-    {% else %}
-    <span class="fa-stack fa-lg">
-			<i class="fa fa-square fa-stack-2x"></i>
-			<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-		</span>
-    {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-      <a class="newer-posts" href="{{ site.baseurl }}">
-		    <span class="fa-stack fa-lg">
-				  <i class="fa fa-square fa-stack-2x"></i>
-				  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-				</span>
-			</a>
-      {% else %}
-      <a class="newer-posts" href="{{ site.baseurl }}page{{paginator.previous_page}}">
-		    <span class="fa-stack fa-lg">
-				  <i class="fa fa-square fa-stack-2x"></i>
-				  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-				</span>
-			</a>
-      {% endif %}
-    {% else %}
-    <span class="fa-stack fa-lg">
-		  <i class="fa fa-square fa-stack-2x"></i>
-		  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-		</span>
-    {% endif %}
-  </p>
-  <p>
-    <a href="{{ site.baseurl }}posts">View All Posts by Category</a>
-  </p>
-</nav>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2695.7496775124832!2d6.800799951614162!3d47.49478967907527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4792172791149439%3A0x4dc03ddeb8739ac9!2zSVVUIFLDqXNlYXV4IFTDqWzDqWNvbXM!5e0!3m2!1sfr!2sfr!4v1447609863008" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 </div>
 </div>
