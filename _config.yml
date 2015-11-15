@@ -4,7 +4,7 @@ exclude:
 # Site settings
 title: SecuRT
 subtitle: "Conférences & Capture the flag"
-email: securt-ufc@gmail.com
+email: securt.ufc@gmail.com
 name: SecuRT
 description: > 
   SecuRT est un évènement de sécurité informatique organisé par le département RT de l'université de
@@ -23,10 +23,10 @@ markdown: kramdown
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/secuRT
+    username: Secu'RT
+    url: https://twitter.com/SecuRT_UFC
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: GitHub
     icon: github

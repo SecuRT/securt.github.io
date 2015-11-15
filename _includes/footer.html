@@ -21,9 +21,9 @@
     	<p><strong>Contact</strong></p>
       <ul class="social-media-list">
       	<li>
-      		<a href="mailto:{{ site.email }}">
+      		<a id="mailto" href="">
 	      		<i class="fa fa-envelope-o"></i>
-	      		<span class="username">{{ site.email }}</span>
+	      		<span id="mail"></span>
       		</a>
       	</li>
 
@@ -55,6 +55,14 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
 <script>
+
+(function(){
+		const user = atob("c2VjdXJ0LnVmYwo=");
+		const host = "%67%6d%61%69%6c%2e%63%6f%6d";
+		document.getElementById("mail").innerHTML = user + "@" + host;
+		document.getElementById("mailto").href = 'mailto:' + user + "@" + host;
+})();
+
 
 $(document).ready(function() {
 
