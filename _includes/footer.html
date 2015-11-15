@@ -58,9 +58,11 @@
 
 (function(){
 		const user = atob("c2VjdXJ0LnVmYwo=");
-		const host = "%67%6d%61%69%6c%2e%63%6f%6d";
-		document.getElementById("mail").innerHTML = user + "@" + host;
-		document.getElementById("mailto").href = 'mailto:' + user + "@" + host;
+		// Paranoid ? No...
+		const span_host = "&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"
+		const a_host = "%67%6D%61%69%6C%2E%63%6F%6D";
+		document.getElementById("mail").innerHTML = user + "@" + span_host;
+		document.getElementById("mailto").href = 'mailto:' + user + "@" + a_host;
 })();
 
 
