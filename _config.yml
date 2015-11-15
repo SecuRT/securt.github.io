@@ -17,48 +17,23 @@ logo: "assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives: 
-  enabled: 
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-
-# Disqus comments
-disqus_shortname: bencentra
-
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+#paginate: 5
+#paginate_path: "/page:num/"
 
 social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url: https://twitter.com/secuRT
     desc: Follow me on Twitter
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: SecuRT
+    url: https://github.com/SecuRT
     desc: Fork me on GitHub
     share: false
 
 protocols:
     twitter_image: "assets/logo.png"
-
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
