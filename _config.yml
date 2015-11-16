@@ -11,7 +11,7 @@ description: >
   Franche-Comté. Chaque année, rencontre avec des professionels du monde du hacking, conférences, et 
   Capture The Flag
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://securt.github.io" # the base hostname & protocol for your site
+url: "https://securt.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.jpg"
 
