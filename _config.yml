@@ -4,7 +4,7 @@ exclude:
 # Site settings
 title: SecuRT
 subtitle: "Conférences & Capture the flag"
-email: securt.ufc@gmail.com
+email: securt@univ-fcomte.fr
 name: SecuRT
 description: > 
   SecuRT est un évènement de sécurité informatique organisé par le département RT de l'université de
