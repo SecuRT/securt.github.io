@@ -23,24 +23,17 @@ markdown: kramdown
 social:
   - name: Facebook
     icon: facebook
-    username: Secu'RT
+    username: Facebook
     url: https://www.facebook.com/secuRT2014
     desc: Follow us on Facebook
     share: true
 
   - name: Twitter
     icon: twitter
-    username: Secu'RT
+    username: Twitter
     url: https://twitter.com/SecuRT_UFC
     desc: Follow us on Twitter
     share: true
-
-  - name: GitHub
-    icon: github
-    username: SecuRT
-    url: https://github.com/SecuRT
-    desc: Fork me on GitHub
-    share: false
 
 protocols:
     twitter_image: "assets/logo.png"
