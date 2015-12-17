@@ -21,12 +21,19 @@ markdown: kramdown
 #paginate_path: "/page:num/"
 
 social:
+  - name: Facebook
+    icon: facebook
+    username: Secu'RT
+    url: https://www.facebook.com/secuRT2014
+    desc: Follow us on Facebook
+    share: true
+
   - name: Twitter
     icon: twitter
     username: Secu'RT
     url: https://twitter.com/SecuRT_UFC
-    desc: Follow me on Twitter
-    share: false
+    desc: Follow us on Twitter
+    share: true
 
   - name: GitHub
     icon: github
