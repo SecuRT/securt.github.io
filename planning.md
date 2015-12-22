@@ -15,11 +15,8 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
 - Julien "[jvoisin]( https://dustri.org/ )" Voisin (HackGyver)
   - Le réseau Tor, pourquoi, comment?
 
-- Bruno Migeot (PIE)
-  - À préciser
+- Bruno Migeot (2PIE)
+  - 2PIE, sécurisation de l'information et gestion de crise
 
-- Delphine Prieur (Spécialiste du droit numérique)
-  - À préciser
-
-- Sandrine Décembre (Consultante) :
+- Sandrine Décembre (Maître de conférences en communication)
   - Le rôle des hackers dans la société
