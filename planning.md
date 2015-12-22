@@ -5,14 +5,15 @@ permalink: /planning/
 ---
 
 <div style="wrapper">
-    <h2>Planning</h2>
-    <p class="info">
-        Au cours de la matinée, la Secu'RT vous propose :
-    </p>
+    <h2>Planning
+        <p class="info">
+            Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
+        </p>
+    </h2>
     <ul>
         <li>Aymeric Vanetti (<i>NES</i>) :
             <ul>
-                <li>La souris qui voulait devenir chat</li>
+                <li>La souris qui voulait devenir chat</li><!-- Again? -->
                 <li>Les applications Android malveillantes</li>
             </ul>
         </li>
@@ -26,7 +27,7 @@ permalink: /planning/
                 <li><i>A préciser</i></li>
             </ul>
         </li>
-        <li>Delphine Prieur (<i>Spécialiste du droit numérique<i>) :
+        <li>Delphine Prieur (<i>Spécialiste du droit numérique</i>) :
             <ul>
                 <li><i>A préciser</i></li>
             </ul>
