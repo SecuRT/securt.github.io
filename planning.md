@@ -15,7 +15,7 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
 - Julien "[jvoisin]( https://dustri.org/ )" Voisin (HackGyver)
   - Le réseau Tor, pourquoi, comment?
 
-- Bruno Migeot (2PIE)
+- Bruno Migeot ([2PIE]( http://www.2pie.fr/ ))
   - l'entreprise face à la cybercriminalité
 
 - Sandrine Décembre (Maître de conférences en communication)
