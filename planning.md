@@ -8,6 +8,8 @@ permalink: /planning/
 
 Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
 
+### Début de matinée
+
 <table>
   <thead>
     <tr>
@@ -42,11 +44,26 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
       <td><strong>HackGyver, le hackerspace de Belfort</strong></td>
       <td>Geoffrey Glangine,<br>Président de l’association HackGyver</td>
     </tr>
+  </tbody>
+</table>
+
+<div>
+    <hr>
+    <p>De 10h40 à 10h55 (15 minutes), le DUT R&amp;T vous propose une pause boisson chaude pour reposer les esprits de chacun</p>
+    <hr>
+</div>
+
+### Fin de matinée
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align: center">10h40 - 10h55 <br>(15 minutes)</td>
-      <td><em>PAUSE</em></td>
-      <td>R&amp;T savent faire du bon café !</td>
+      <th style="text-align: center; width: 20%">HORAIRE</th>
+      <th style="width: 50%">PRESENTATION</th>
+      <th style="width: 30%">SPEAKER</th>
     </tr>
+  </thead>
+  <tbody>
     <tr style="background-color: #f5f5f5;">
       <td style="text-align: center">10h55 - 11h10 <br>(15 minutes)</td>
       <td><strong>Les applications Android malveillantes</strong></td>
