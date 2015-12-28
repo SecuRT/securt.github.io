@@ -10,7 +10,7 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
 
 <table>
   <thead>
-    <tr style="border-right: none; border-left: none;>
+    <tr style="border-right: none; border-left: none;">
       <th style="text-align: center; width: 20%">HORAIRE</th>
       <th style="width: 50%">PRESENTATION</th>
       <th style="width: 30%">SPEAKER</th>
@@ -51,7 +51,7 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
 
 <table>
   <thead>
-    <tr style="border-right: none; border-left: none;>
+    <tr style="border-right: none; border-left: none;">
       <th style="text-align: center; width: 20%">HORAIRE</th>
       <th style="width: 50%">PRESENTATION</th>
       <th style="width: 30%">SPEAKER</th>
