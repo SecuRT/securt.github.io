@@ -13,4 +13,4 @@ dans les domaines de la sécurité web, logicielle, applications mobiles, crypto
 La compétition est ouverte à tous, à partir de 14 heures jusque fin de soirée. Il est conseillé d'apporter votre propre
 ordinateur afin de travailler sur les différents challenges, seul ou en équipe de 2 à 3 personnes.
 
-L'équipe gagnante se verra attribuer une coupe symbolique ainsi qu'un bon d'achat chez FNAC d'une valeur de 50€.
+Les deux premières équipes gagnantes se verront attribuer une coupe symbolique ainsi qu'un bon d'achat chez FNAC d'une valeur de 50€.
