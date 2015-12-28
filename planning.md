@@ -8,8 +8,6 @@ permalink: /planning/
 
 Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
 
-### Début de matinée
-
 <table>
   <thead>
     <tr>
@@ -48,12 +46,8 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
 </table>
 
 <div>
-    <hr>
     <p>De 10h40 à 10h55 (15 minutes), le DUT R&amp;T vous propose une pause boisson chaude pour reposer les esprits de chacun</p>
-    <hr>
 </div>
-
-### Fin de matinée
 
 <table>
   <thead>

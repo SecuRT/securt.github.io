@@ -18,6 +18,11 @@ td {
   padding: $small-spacing 0;
 }
 
+tr {
+  border-right: $base-border;
+  border-left: $base-border;
+}
+
 tr,
 td,
 th {
