@@ -17,8 +17,8 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="text-align: center; background-color: #f5f5f5;">09h30 - 09h50 <br>(20 minutes)</td>
+    <tr style="background-color: #f5f5f5;">
+      <td style="text-align: center">09h30 - 09h50 <br>(20 minutes)</td>
       <td><strong>L’entreprise face à la cybercriminalité</strong></td>
       <td>Bruno Migeot,<br>Autoentrepreneur <a href="http://www.2pie.fr/">2PIE</a></td>
     </tr>
@@ -27,8 +27,8 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
       <td><strong>La souris qui voulait devenir chat</strong></td>
       <td>Aymeric Vanetti,<br>Auditeur Sécurité chez NES Conseil</td>
     </tr>
-    <tr>
-      <td style="text-align: center; background-color: #f5f5f5;">10h00 - 10h20 <br>(20 minutes)</td>
+    <tr style="background-color: #f5f5f5;">
+      <td style="text-align: center">10h00 - 10h20 <br>(20 minutes)</td>
       <td><strong>Protection contre les attaques internes en entreprise</strong></td>
       <td>Olivier Patarozzi,<br>Senior Infrastructure Consultant chez Sogeti</td>
     </tr>
@@ -37,8 +37,8 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
       <td><strong>Le rôle des hackers dans la société</strong></td>
       <td>Sandrine Décembre,<br>Consultante en stratégie de communication</td>
     </tr>
-    <tr>
-      <td style="text-align: center; background-color: #f5f5f5;">10h30 - 10h40 <br>(10 minutes)</td>
+    <tr style="background-color: #f5f5f5;">
+      <td style="text-align: center">10h30 - 10h40 <br>(10 minutes)</td>
       <td><strong>HackGyver, le hackerspace de Belfort</strong></td>
       <td>Geoffrey Glangine,<br>Président de l’association HackGyver</td>
     </tr>
@@ -47,8 +47,8 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
       <td><em>PAUSE</em></td>
       <td>R&amp;T savent faire du bon café !</td>
     </tr>
-    <tr>
-      <td style="text-align: center; background-color: #f5f5f5;">10h55 - 11h10 <br>(15 minutes)</td>
+    <tr style="background-color: #f5f5f5;">
+      <td style="text-align: center">10h55 - 11h10 <br>(15 minutes)</td>
       <td><strong>Les applications Android malveillantes</strong></td>
       <td>Aymeric Vanetto,<br>Auditeur Sécurité chez NES Conseil</td>
     </tr>
@@ -57,8 +57,8 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
       <td><strong>La sécurité dans l’embarquée, les premiers pas</strong></td>
       <td>Tao Sauvage,<br>Membre HackGyver</td>
     </tr>
-    <tr>
-      <td style="text-align: center; background-color: #f5f5f5;">11h30 - 11h50 <br>(20 minutes)</td>
+    <tr style="background-color: #f5f5f5;">
+      <td style="text-align: center">11h30 - 11h50 <br>(20 minutes)</td>
       <td><strong>Le réseau TOR, pourquoi, comment ?</strong></td>
       <td>Julien “<a href="https://dustri.org/">jvoisin</a>” Voisin,<br>Membre HackGyver</td>
     </tr>
