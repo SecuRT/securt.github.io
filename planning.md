@@ -43,7 +43,7 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
       <td>Geoffrey Glangine,<br>Président de l’association HackGyver</td>
     </tr>
     <tr>
-      <td style="text-align: center">10h40 - 10h55 <br>(25 minutes)</td>
+      <td style="text-align: center">10h40 - 10h55 <br>(15 minutes)</td>
       <td><em>PAUSE</em></td>
       <td>R&amp;T savent faire du bon café !</td>
     </tr>
