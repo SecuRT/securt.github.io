@@ -46,7 +46,7 @@ Pour vous cette année, le jeudi 10 mars 2016, la Secu'RT vous propose les inter
 </table>
 
 <div>
-    <p>De 10h40 à 10h55 (15 minutes), le DUT R&amp;T vous propose une pause boisson chaude pour reposer les esprits de chacun</p>
+    <p>De 10h40 à 10h55 (15 minutes), le DUT R&amp;T vous propose une pause boisson chaude pour reposer les esprits de chacun.</p>
 </div>
 
 <table>
