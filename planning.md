@@ -16,7 +16,13 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
   - Le réseau Tor, pourquoi, comment?
 
 - Bruno Migeot (2PIE)
-  - 2PIE, sécurisation de l'information et gestion de crise
+  - l'entreprise face à la cybercriminalité
 
 - Sandrine Décembre (Maître de conférences en communication)
   - Le rôle des hackers dans la société
+
+- Delphine Prieur
+  - Le droit numérique
+
+- Olivier Patarozzi (Senior Infrastructure Consultant chez Sogeti)
+  - Protection contre les attaques internes en entreprise
