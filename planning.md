@@ -70,7 +70,7 @@ Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
     </tr>
     <tr style="background-color: #f5f5f5;">
       <td style="text-align: center">11h30 - 11h50 <br>(20 minutes)</td>
-      <td><strong>Le réseau TOR, pourquoi, comment ?</strong></td>
+      <td><strong>Le réseau Tor, pourquoi, comment ?</strong></td>
       <td>Julien “<a href="https://dustri.org/">jvoisin</a>” Voisin,<br>Membre HackGyver</td>
     </tr>
     <tr>
