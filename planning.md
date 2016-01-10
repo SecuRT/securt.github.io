@@ -6,7 +6,7 @@ permalink: /planning/
 
 ## Planning
 
-Pour vous cette année, la Secu'RT vous propose les interventions suivantes :
+Pour vous cette année, le jeudi 10 mars 2016, la Secu'RT vous propose les interventions suivantes :
 
 <table>
   <thead>
