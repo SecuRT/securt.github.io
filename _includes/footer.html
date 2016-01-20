@@ -19,9 +19,9 @@
     	<p><strong>Contact</strong></p>
       <ul class="social-media-list">
       	<li>
-      		<a id="mailto" href="">
+      		<a id="mailto" href="mailto:{{ social.email }}">
 	      		<i class="fa fa-envelope-o"></i>
-	      		<span id="mail"></span>
+	      		<span id="mail">{{ social.email }}</span>
       		</a>
       	</li>
 
@@ -55,17 +55,6 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
 -->
 <script>
-
-(function(){
-		const user = atob("c2VjdXJ0LnVmYwo=");
-		// Paranoid ? No...
-		const span_host = "&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"
-		const a_host = "%67%6D%61%69%6C%2E%63%6F%6D";
-		document.getElementById("mail").innerHTML = user + "@" + span_host;
-		document.getElementById("mailto").href = 'mailto:' + user + "@" + a_host;
-})();
-
-
 $(document).ready(function() {
 
 	// Syntax highlighting
