@@ -35,7 +35,13 @@ social:
     desc: Follow us on Twitter
     share: true
     
-    email: securt@univ-fcomte.fr
+  - name: Mail
+  icon:mail
+  username:securt@univ-fcomte.fr
+  desc:Send us an email
+  url:mailto:securt@univ-fcomte.fr
+  share:true
+  email: securt@univ-fcomte.fr
 
 protocols:
     twitter_image: "assets/logo.png"
