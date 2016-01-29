@@ -34,6 +34,8 @@ social:
     url: https://twitter.com/SecuRT_UFC
     desc: Follow us on Twitter
     share: true
+    
+    email: securt@univ-fcomte.fr
 
 protocols:
     twitter_image: "assets/logo.png"
