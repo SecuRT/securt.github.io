@@ -35,6 +35,7 @@ Ci-dessous différentes ressources qui pourront peut être vous être utiles :
     + radare2 : <http://www.radare.org/r/>
     + Defeating ioli with radare2 : <https://dustri.org/b/defeating-ioli-with-radare2.html>
     + IDA version d'évaluation : <https://www.hex-rays.com/products/ida/support/download_demo.shtml>
+    + PEDA pour GDB : <http://security.cs.pub.ro/hexcellents/wiki/kb/toolset/peda>
 
 Un doute ? Une question ? [Faites un tour sur IRC](http://webchat.freenode.net/?channels=hackgyver) ou envoyez un mail
 à securt@univ-fcomte.fr :)
