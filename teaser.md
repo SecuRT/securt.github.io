@@ -39,3 +39,11 @@ Ci-dessous différentes ressources qui pourront peut être vous être utiles :
 
 Un doute ? Une question ? [Faites un tour sur IRC](http://webchat.freenode.net/?channels=hackgyver) ou envoyez un mail
 à securt@univ-fcomte.fr :)
+
+## Hall of Fame
+
+Ci-dessous sont les personnes ayant validé les challenges du *teaser* :
+
+Nom | Lien
+:---: | :---:
+jvoisin | <https://dustri.org>
