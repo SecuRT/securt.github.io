@@ -44,4 +44,6 @@ Un doute ? Une question ? [Faites un tour sur IRC](http://webchat.freenode.net/?
 
 Ci-dessous sont les personnes ayant validé les challenges du *teaser* :
 
++ jfrankowski
 + [jvoisin](https://dustri.org)
++ xarkes
