@@ -44,6 +44,4 @@ Un doute ? Une question ? [Faites un tour sur IRC](http://webchat.freenode.net/?
 
 Ci-dessous sont les personnes ayant validé les challenges du *teaser* :
 
-Nom | Lien
-:---: | :---:
-jvoisin | <https://dustri.org>
++ [jvoisin](https://dustri.org)
