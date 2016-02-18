@@ -13,4 +13,9 @@ dans les domaines de la sécurité web, logicielle, applications mobiles, crypto
 La compétition est ouverte à tous, à partir de 14 heures jusque fin de soirée. Il est conseillé d'apporter votre propre
 ordinateur afin de travailler sur les différents challenges, seul ou en équipe de 2 à 3 personnes.
 
-Les deux premières équipes gagnantes se verront attribuer une coupe symbolique ainsi qu'un bon d'achat chez FNAC d'une valeur de 50€.
+Récompenses
+-----------
+
+* *Les deux premières équipes gagnantes* se verront attribuer une **coupe symbolique** ainsi qu'un **bon d'achat chez FNAC d'une valeur de 50€**.
+* Une **licence** d’un an pour chacun des **4 produits F-Secure** (SAFE, Freedome VPN, Booster et Key) pour *chacun des gagnants*.
+* Des codes permettant à *tous les participants et visiteurs* d’utiliser notre solution **Freedome VPN gratuitement** pendant 2 mois.
