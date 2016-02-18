@@ -19,7 +19,7 @@ Pour vous cette année, le jeudi 10 mars 2016, la Secu'RT vous propose les inter
   <tbody>
     <tr style="background-color: #f5f5f5;">
       <td style="text-align: center">09h30 - 09h50 <br>(20 minutes)</td>
-      <td><strong>L’entreprise face à la cybercriminalité</strong></td>
+      <td><strong>Cybersécurité en entreprise - Et si l'humain devenait le maillon fort ?</strong></td>
       <td>Bruno Migeot,<br>Autoentrepreneur <a href="http://www.2pie.fr/">2PIE</a></td>
     </tr>
     <tr>
@@ -29,8 +29,8 @@ Pour vous cette année, le jeudi 10 mars 2016, la Secu'RT vous propose les inter
     </tr>
     <tr style="background-color: #f5f5f5;">
       <td style="text-align: center">10h00 - 10h20 <br>(20 minutes)</td>
-      <td><strong>Protection contre les attaques internes en entreprise</strong></td>
-      <td>Olivier Patarozzi,<br>Senior Infrastructure Consultant chez Sogeti</td>
+      <td><strong>Présentation de la société F-Secure</strong></td>
+      <td>Fergus Leleu,<br>Business Developer Manager chez F-Secure</td>
     </tr>
     <tr>
       <td style="text-align: center">10h20 - 10h30 <br>(10 minutes)</td>
@@ -75,8 +75,13 @@ Pour vous cette année, le jeudi 10 mars 2016, la Secu'RT vous propose les inter
     </tr>
     <tr>
       <td style="text-align: center">11h50 - 12h10 <br>(20 minutes)</td>
-      <td><strong>Le droit numérique</strong></td>
+      <td><strong>Le droit des TIC, un enjeu au cœur de toutes les dimensions de l'entreprise</strong></td>
       <td>Delphine Prieur,<br>Spécialiste du droit numérique</td>
+    </tr>
+    <tr style="background-color: #f5f5f5;">
+      <td style="text-align: center">12h10 - 12h25 <br>(15 minutes)</td>
+      <td><strong>Sécurité informatique pour les armées - Proposition de stages et d'emplois</strong></td>
+      <td>Lieutenant Colonel Méthou</td>
     </tr>
   </tbody>
 </table>
