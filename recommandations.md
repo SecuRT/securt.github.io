@@ -10,7 +10,8 @@ Recommandations pour le CTF
 Le CTF de la Secu'RT proposant bon nombre de challenges, il vous est recommandé de préparer votre machine comme il se doit. 
 Pour ce faire, et selon votre niveau, nous vous invitons à suivre ces quelques recommandations.
 
-### Débutant installation USB
+Débutant installation USB
+-------------------------
 
 *Permet de démarrer son ordinateur sous un système d'exploitation différent.*
 
@@ -18,7 +19,10 @@ De loin la version la plus **simple à réaliser**, qui ne nécessite **aucune m
 
 La partie **Persistance à votre clef USB** est recommandé, mais pas indispensable.
 
-### Débutant installation machine virtuelle
+
+
+Débutant installation machine virtuelle
+---------------------------------------
 
 *Permet de ne pas avoir à changer son système et d'utiliser un autre système en parallèle.*
 
@@ -34,4 +38,4 @@ La partie **Persistance à votre clef USB** est recommandé, mais pas indispensa
 * Créer un nouveau disque dur virtuel
 	* Format VDI
 	* Dynamiquement alloué
-	* De 20 Go
+	* De 20 Go minimum
