@@ -25,9 +25,11 @@ Débutant installation machine virtuelle
 
 * Télécharger et installer [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Lancer **VirtualBox** et créer une **nouvelle** machine virtuelle
-* Ensuite boite de dialogue s'ouvre alors, il faut la remplir comme ceci :
+* Ensuite boite de dialogue s'ouvre alors, il faut la remplir comme ceci
+
 	![Nom de la Machine virtuelle](assets/recommandations/virtualbox/new-name.png)
 * Il faut ensuite préciser la quantité de RAM, le **minimum recommandé étant de 2048 Mo**
+
 	![Ram Machine virtuelle](assets/recommandations/virtualbox/new-ram.png)
 
 * Créer un nouveau disque dur virtuel
