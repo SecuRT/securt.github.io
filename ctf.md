@@ -20,5 +20,5 @@ Récompenses
 * Une **licence** d’un an pour chacun des **4 produits F-Secure** (SAFE, Freedome VPN, Booster et Key) pour *chacun des gagnants*.
 * Des codes permettant à *tous les participants et visiteurs* d’utiliser notre solution **Freedome VPN gratuitement** pendant 2 mois.
 * Une formation [Sysdream](https://www.sysdream.com), pour **les 4 premiers**, au choix parmi un des deux programmes suivant : 
-	* [HSA](https://www.sysdream.com/formations/securite-offensive-ethical-hacking/hacking-securite-avance-v6/)
-	* [HSE](https://www.sysdream.com/formations/securite-offensive-ethical-hacking/hacking-securite-expert-v4/)
+	* [HSA](https://www.sysdream.com/formations/securite-offensive-ethical-hacking/hacking-securite-avance-v6/) - Hacking & Sécurité : Avancé v6
+	* [HSE](https://www.sysdream.com/formations/securite-offensive-ethical-hacking/hacking-securite-expert-v4/) - Hacking & Sécurité: Expert v4
