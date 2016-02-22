@@ -10,19 +10,19 @@ Recommandations pour le CTF
 Le CTF de la Secu'RT proposant bon nombre de challenges, il vous est recommandé de préparer votre machine comme il se doit. 
 Pour ce faire, et selon votre niveau, nous vous invitons à suivre ces quelques recommandations.
 
-Débutant installation USB
--------------------------
 
-*Permet de démarrer son ordinateur sous un système d'exploitation différent.*
+Novice live USB
+---------------
+
+*Permet de démarrer son ordinateur, depuis une client USB, sous un système d'exploitation différent.*
 
 De loin la version la plus **simple à réaliser**, qui ne nécessite **aucune modification** de votre système d'exploitation : [Créer une clef USB Kali Linux](http://fr.docs.kali.org/installation-fr/kali-linux-sur-usb)
 
 La partie **Persistance à votre clef USB** est recommandé, mais pas indispensable.
 
 
-
-Débutant installation machine virtuelle
----------------------------------------
+Novice installation machine virtuelle
+-------------------------------------
 
 *Permet de ne pas avoir à changer son système et d'utiliser un autre système en parallèle.*
 
@@ -39,3 +39,29 @@ Débutant installation machine virtuelle
 	* Format VDI
 	* Dynamiquement alloué
 	* De 20 Go minimum
+
+* Clique droit, configuration
+
+	![Configuration VM](assets/recommandations/virtualbox/vm-conf.png)
+
+* Réseau
+	* Mode d'accès réseau : **Accès par pont**
+	* Nom : **Nom de la carte réseau souhaitée**
+
+* Télécharger [l'image DVD de Kali Linux](https://www.kali.org/downloads/)
+* Stockage
+	* ![Configuration stockage](assets/recommandations/virtualbox/vm-storage.png)
+	* Choisissez le .iso téléchargé précédemment
+
+* Vous pouvez maintenant démarrer la Machine Virtuelle et procéder à une installation classique ou profiter du LiveCD
+![Démarrage Kali Linux](assets/recommandations/virtualbox/vm-start.png)
+
+
+Expérimenté
+-----------
+
+Préparer votre machine pour : 
+
+	* Du **reverse engineering**
+	* Des applications **web vulnérables** (XSS, SQLi, CSRF ...)
+	* Sécurité des réseaux
