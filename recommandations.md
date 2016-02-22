@@ -50,11 +50,13 @@ Novice installation machine virtuelle
 
 * Télécharger [l'image DVD de Kali Linux](https://www.kali.org/downloads/)
 * Stockage
-	* ![Configuration stockage](assets/recommandations/virtualbox/vm-storage.png)
+
+	![Configuration stockage](assets/recommandations/virtualbox/vm-storage.png)
 	* Choisissez le .iso téléchargé précédemment
 
 * Vous pouvez maintenant démarrer la Machine Virtuelle et procéder à une installation classique ou profiter du LiveCD
-![Démarrage Kali Linux](assets/recommandations/virtualbox/vm-start.png)
+
+	![Démarrage Kali Linux](assets/recommandations/virtualbox/vm-start.png)
 
 
 Expérimenté
