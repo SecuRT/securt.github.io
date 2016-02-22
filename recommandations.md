@@ -64,6 +64,7 @@ Expérimenté
 
 Préparer votre machine pour : 
 
-	* Du **reverse engineering**
-	* Des applications **web vulnérables** (XSS, SQLi, CSRF ...)
-	* Sécurité des réseaux
+* Du **reverse engineering**
+* Des applications **web vulnérables** (XSS, SQLi, CSRF ...)
+* Reverse de **codes obfusqué**
+* Sécurité des réseaux
