@@ -30,10 +30,10 @@ Novice installation machine virtuelle
 * Lancer **VirtualBox** et créer une **nouvelle** machine virtuelle
 * Ensuite boite de dialogue s'ouvre alors, il faut la remplir comme ceci
 
-	![Nom de la Machine virtuelle](assets/recommandations/virtualbox/new-name.png)
+	![Nom de la Machine virtuelle](../assets/recommandations/virtualbox/new-name.png)
 * Il faut ensuite préciser la quantité de RAM, le **minimum recommandé étant de 2048 Mo**
 
-	![Ram Machine virtuelle](assets/recommandations/virtualbox/new-ram.png)
+	![Ram Machine virtuelle](../assets/recommandations/virtualbox/new-ram.png)
 
 * Créer un nouveau disque dur virtuel
 	* Format VDI
@@ -42,7 +42,7 @@ Novice installation machine virtuelle
 
 * Clique droit, configuration
 
-	![Configuration VM](assets/recommandations/virtualbox/vm-conf.png)
+	![Configuration VM](../assets/recommandations/virtualbox/vm-conf.png)
 
 * Réseau
 	* Mode d'accès réseau : **Accès par pont**
@@ -51,12 +51,12 @@ Novice installation machine virtuelle
 * Télécharger [l'image DVD de Kali Linux](https://www.kali.org/downloads/)
 * Stockage
 
-	![Configuration stockage](assets/recommandations/virtualbox/vm-storage.png)
+	![Configuration stockage](../assets/recommandations/virtualbox/vm-storage.png)
 	* Choisissez le .iso téléchargé précédemment
 
 * Vous pouvez maintenant démarrer la Machine Virtuelle et procéder à une installation classique ou profiter du LiveCD
 
-	![Démarrage Kali Linux](assets/recommandations/virtualbox/vm-start.png)
+	![Démarrage Kali Linux](../assets/recommandations/virtualbox/vm-start.png)
 
 
 Expérimenté
