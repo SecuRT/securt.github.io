@@ -18,7 +18,7 @@ Récompenses
 
 * *Les deux premières équipes gagnantes* se verront attribuer une **coupe symbolique** ainsi qu'un **bon d'achat chez FNAC d'une valeur de 50€**.
 * Une **licence** d’un an pour chacun des **4 produits F-Secure** (SAFE, Freedome VPN, Booster et Key) pour *chacun des gagnants*.
-* Des codes permettant à *tous les participants et visiteurs* d’utiliser notre solution **Freedome VPN gratuitement** pendant 2 mois.
+* Des codes permettant à *tous les participants et visiteurs* d’utiliser la solution [F-Secure](https://f-secure.com/) **Freedome VPN gratuitement** pendant 2 mois.
 * Une formation [Sysdream](https://www.sysdream.com), pour **les 4 premiers**, au choix parmi un des deux programmes suivant : 
 	* [HSA](https://www.sysdream.com/formations/securite-offensive-ethical-hacking/hacking-securite-avance-v6/) - Hacking & Sécurité : Avancé v6
 	* [HSE](https://www.sysdream.com/formations/securite-offensive-ethical-hacking/hacking-securite-expert-v4/) - Hacking & Sécurité: Expert v4
