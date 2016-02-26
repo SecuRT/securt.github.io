@@ -14,7 +14,7 @@ Pour ce faire, et selon votre niveau, nous vous invitons à suivre ces quelques 
 Novice live USB
 ---------------
 
-*Permet de démarrer son ordinateur, depuis une client USB, sous un système d'exploitation différent.*
+*Permet de démarrer son ordinateur, depuis une clef USB, sous un système d'exploitation différent.*
 
 De loin la version la plus **simple à réaliser**, qui ne nécessite **aucune modification** de votre système d'exploitation : [Créer une clef USB Kali Linux](http://fr.docs.kali.org/installation-fr/kali-linux-sur-usb)
 
