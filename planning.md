@@ -61,7 +61,7 @@ Pour vous cette année, le jeudi 10 mars 2016, la Secu'RT vous propose les inter
     <tr style="background-color: #f5f5f5;">
       <td style="text-align: center">10h55 - 11h10 <br>(15 minutes)</td>
       <td><strong>Les applications Android malveillantes</strong></td>
-      <td>Aymeric Vanetto,<br>Auditeur Sécurité chez NES Conseil</td>
+      <td>Aymeric Vanetti,<br>Auditeur Sécurité chez NES Conseil</td>
     </tr>
     <tr>
       <td style="text-align: center">11h10 - 11h30 <br>(20 minutes)</td>
