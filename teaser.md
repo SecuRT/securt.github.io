@@ -49,3 +49,4 @@ Ci-dessous sont les personnes ayant validé les challenges du *teaser* :
 + [jvoisin](https://dustri.org)
 + xarkes
 + njfox
++ Kiwhacks
