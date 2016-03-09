@@ -48,3 +48,4 @@ Ci-dessous sont les personnes ayant validé les challenges du *teaser* :
 + [futex](http://remchp.com)
 + [jvoisin](https://dustri.org)
 + xarkes
++ njfox
