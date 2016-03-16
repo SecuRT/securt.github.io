@@ -7,6 +7,12 @@ permalink: /feedback/
 Classement
 ==========
 
+<style>
+	td{
+		padding-left:5px;
+	}
+</style>
+
 <table>
   <thead>
     <tr style="border-right: none; border-left: none;">
