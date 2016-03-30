@@ -71,12 +71,20 @@ Classement
 
 ![Épreuves](../assets/photos/ctf/effort-1.JPG)
 ![Épreuves](../assets/photos/ctf/effort-2.JPG)
+**Les candidats du CTF en plein effort !**
 
 ## Conférences 
 
 ![Présentation](../assets/photos/conf/pres-1.JPG)
+**Présentation de la journée**
+
 ![Word Macro](../assets/photos/conf/macro-2.JPG)
 ![Word Macro](../assets/photos/conf/macro-1.JPG)
+**Les macros Word**
+
 ![Applications mobiles malicieuses](../assets/photos/conf/mobile-2.JPG)
 ![Applications mobiles malicieuses](../assets/photos/conf/mobile-1.JPG)
+**Applications mobiles malicieuses**
+
 ![Quelle est la place des Hackers dans notre société](../assets/photos/conf/societe-1.JPG)
+**Quelle est la place des Hackers dans notre société**
