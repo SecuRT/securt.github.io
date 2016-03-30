@@ -64,3 +64,19 @@ Classement
     </tr>
   </tbody>
 </table>
+
+# Photos
+
+## CTF
+
+![Épreuves](../assets/photos/ctf/effort-1.JPG)
+![Épreuves](../assets/photos/ctf/effort-2.JPG)
+
+## Conférences 
+
+![Présentation](../assets/photos/conf/pres-1.JPG)
+![Word Macro](../assets/photos/conf/macro-2.JPG)
+![Word Macro](../assets/photos/conf/macro-1.JPG)
+![Applications mobiles malicieuses](../assets/photos/conf/mobile-2.JPG)
+![Applications mobiles malicieuses](../assets/photos/conf/mobile-1.JPG)
+![Quelle est la place des Hackers dans notre société](../assets/photos/conf/societe-1.JPG)
